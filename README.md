@@ -8,7 +8,7 @@ NodeJS multiplayer games framework
 ```
 2. Install dependencies
 ```
-   $ npm install to install dependencies
+   $ npm install
 ```
 3. Run the node server
 ```
