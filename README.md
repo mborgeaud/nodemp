@@ -1,5 +1,8 @@
 # nodemp
-NodeJS multiplayer games framework
+NodeJS multiplayer game framework using SocketIO
+
+**Watch it on Youtube**
+https://www.youtube.com/watch?v=z-x95RzQ9UQ
 
 **Testing the framework**
 1. Clone this repository
@@ -15,3 +18,6 @@ NodeJS multiplayer games framework
    $ node .\server.js
 ```
 4. Open a web browser and navigate to localhost:8080
+
+**My blog**
+https://matiasborgeaud.com.ar/
