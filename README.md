@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=z-x95RzQ9UQ
 4. Open a web browser and navigate to localhost:8080
 
 **My blog**
-https://matiasborgeaud.com.ar/
+https://matiasborgeaud.com.ar/#blog
